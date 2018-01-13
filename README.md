@@ -16,7 +16,7 @@ The pool is designed to provide approved state agencies with access to user-cent
 ### The Results:
 CDT will release an Official RFI in February 2018, that may incorporate feedback provided by the vendor community.  As such, CDT advises all interested parties, including incumbent vendors, to review the RFI thoroughly and submit any feedback and/or comments by the due date identified in Section A.1 PQVP AD-DS, Key Action Dates.   
 
-### [Pre-Qualified Vendor Pool for Agile Development - Digital Services Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/RFI%20CDT-ADPQ-0117%20-%20PQVP%20DS-AD%20-%20Final%20%2002.06.17.pdf)
+### [Pre-Qualified Vendor Pool for Agile Development - Digital Services Refresh Request for Interest (RFI)](https://github.com/DebChu/adpq/blob/master/Pre-Release%20RFI%20CDT-PQVP-0118%20-%20Pre-Qualified%20Vendor%20Pool.pdf)
  
 ### Vendor Pool Questions & Issues:
 If you have any questions or issues, please submit a email to the PQVP Team (adpq@state.ca.gov).
